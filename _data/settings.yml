@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: I need a catchphrase...
+  footer_tagline: Currently located in Chiang Mai, Thailand 
 
 hero_settings:
   overlay_opacity: 0.6
