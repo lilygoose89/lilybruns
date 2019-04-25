@@ -2,7 +2,7 @@
 title: About Me
 subtitle:
 description: About Lily Bruns
-featured_image: /images/stars.jpg
+featured_image: /images/globe.jpg
 ---
 
 ## Startup Storyteller
@@ -21,7 +21,7 @@ You can [download a copy of my resume here](/files/LilyBrunsResumeApril2019.pdf)
 ![](/images/alsome.jpg)
 
 ## Oh, you want more?
-Fortunately for you then, I have given up all semblance of boundaries between my personal and professional life, so here we go...
+Fortunately for you, I have given up all semblance of boundaries between my personal and professional life, so here we goes...
 
 ### Around the world and back again
 Born in Jakarta, Indonesia and raised in Chiang Mai, Thailand slash Seagrove Beach, Florida. I was educated in Gainesville, Florida and then later in London, England. Just for shits and grins I lived in New York for a bit. Turns out I love to visit but everybody there is obsessed with working so it's a very unhealthy environment for me to be in.
