@@ -1,71 +1,79 @@
 basic_settings:
   site_title: Lily Bruns
   favicon_image: /images/favicon.png
+
 header_settings:
   logo_image: /images/logo.png
   logo_width: 35
+
 menu_settings:
   menu_items:
-    - title: Projects
-      url: /
-    - title: About
-      url: /about
-    - title: Contact
-      url: /contact
+    - title: 'Projects'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'About'
+      url: '/about'
+    - title: 'Contact'
+      url: '/contact'
+
 footer_settings:
-  footer_tagline: 'Currently located in Chiang Mai, Thailand'
+  footer_tagline: Currently located in Chiang Mai, Thailand 
+
 hero_settings:
   overlay_opacity: 0.6
+
 post_settings:
   grid_spacing: 10
+
 contact_settings:
   form_action: 'https://formspree.io/lily@cnxweb.site'
-  confirmation_url: /thanks
-  email_subject: Message via LilyBruns.com
-  send_button_text: Send Message
+  confirmation_url: '/thanks'
+  email_subject: 'Message via LilyBruns.com'
+  send_button_text: 'Send Message'
+
 social_settings:
   facebook_url: 'https://www.facebook.com/lily.bruns'
   twitter_url: 'https://twitter.com/itslilybruns'
   instagram_url: 'https://www.instagram.com/lilygoose89/'
-  snapchat_url:
-  youtube_url:
-  google-plus_url:
-  vimeo_url:
-  pinterest_url:
-  medium_url:
+  snapchat_url: ''
+  youtube_url: ''
+  google-plus_url: ''
+  vimeo_url: ''
+  pinterest_url: ''
+  medium_url: ''
   quora_url: 'https://www.quora.com/profile/Lily-Bruns'
-  amazon_url:
-  apple_url:
-  android_url:
-  tumblr_url:
-  dribbble_url:
-  behance_url:
-  deviantart_url:
+  amazon_url: ''
+  apple_url: ''
+  android_url: ''
+  tumblr_url: ''
+  dribbble_url: ''
+  behance_url: ''
+  deviantart_url: ''
   github_url: 'https://github.com/lilygoose89'
-  reddit_url:
-  flickr_url:
-  etsy_url:
-  kickstarter_url:
-  soundcloud_url:
+  reddit_url: ''
+  flickr_url: ''
+  etsy_url: ''
+  kickstarter_url: ''
+  soundcloud_url: ''
   spotify_url: 'https://open.spotify.com/user/1280310641?si=4DCzOWTcQaqpSRwuSRyb5A'
-  bandcamp_url:
+  bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/lilybruns/'
+
 color_settings:
   background_color: '#ffffff'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#2a2f36'
-  text_medium_color: '#6c7a89'
-  text_light_color: '#abb7b7'
+  text_dark_color: '#2A2F36'
+  text_medium_color: '#6C7A89'
+  text_light_color: '#ABB7B7'
   accent_color: '#29339b'
   border_color: '#dddddd'
   hero_background_color: '#132930'
   hero_text_color: '#ffffff'
-  error_color: '#d64541'
+  error_color: '#D64541'
+
 font_settings:
-  font_embed: >-
-    <link
-    href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700|Playfair+Display"
-    rel="stylesheet">
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700|Playfair+Display" rel="stylesheet">'
   title_font: '"Playfair Display", serif'
   body_font: '"Montserrat", sans-serif'
   regular_weight: 400
@@ -139,9 +147,10 @@ font_settings:
   buttons:
     weight: 600
     letter_spacing: 0
+
 advanced_settings:
   ajax_loading: true
-  analytics_code:
-  custom_styles:
-  header_js:
-  footer_js:
+  analytics_code: ""
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""
