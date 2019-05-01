@@ -17,7 +17,7 @@ I’m startup minded, self-motivated, at ease switching hats on the fly, and abl
 
 To get to know me better professionally, please have a gander at my [LinkedIn](https://www.linkedin.com/in/lilybruns/) or enjoy a peek at my [projects](/#projects).
 
-You can [download a copy of my resume here](/files/LilyBrunsResumeApril2019.pdf)
+You can [download a copy of my resume here](https://lilybruns.com/files/LilyBrunsResumeApril2019.pdf)
 
 ![](/images/alsome.jpg)
 
