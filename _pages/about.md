@@ -23,15 +23,15 @@ You can [download a copy of my resume here](https://lilybruns.com/files/LilyBrun
 
 ## Oh, you want more?
 
-Fortunately for you, I have given up all semblance of boundaries between my personal and professional life, so here we goes…
+Fortunately for you, I have given up all semblance of boundaries between my personal and professional life, so here we go…
 
 ### Around the world and back again
 
-Born in Jakarta, Indonesia and raised in Chiang Mai, Thailand slash Seagrove Beach, Florida. I was educated in Gainesville, Florida and then later in London, England. Just for shits and grins I lived in New York for a bit. Turns out I love to visit but everybody there is obsessed with working so it's a very unhealthy environment for me to be in.
+Born in Jakarta, Indonesia and raised in Chiang Mai, Thailand slash Seagrove Beach, Florida. I was educated in [Gainesville, Florida](http://www.ufl.edu) and then later in [London, England](https://www.imperial.ac.uk/business-school/). Just for shits and grins I lived in New York for a bit. Turns out I love to visit but everybody there is obsessed with working so it's a very unhealthy environment for me to be in.
 
 So yes, you may have noticed I have a habit of wandering around a bit (now excuse me real quick while I go update all my security questions).
 
-I've made my home in, to my great surprise, my hometown of Chiang Mai. It's a wonderful place to live and its energy attracts the best kind of people. I don't know if I'll be here forever, but with four cats, it's safe to say I'm probably here for a while.
+I've made my home in, to my great surprise, my hometown of Chiang Mai. It's a wonderful place to live and its energy attracts the best kind of people. I don't know if I'll be here forever, but with three cats, it's safe to say I'm probably here for a while.
 
 I'm a third-culture kid, which is a nice way to say I have never fit in but it's ok, I now have excellent communication skills and I'm highly adaptable.
 
@@ -44,12 +44,12 @@ Here is a short list of things that I will happily talk about at length:
 * Harry Potter
 * The singularity
 * The Oxford Comma
-* Whether or not pole dancing should be considered an Olympic sport
+* Whether or not pole dancing should be an Olympic sport
 * Netflix romcoms
 * My cats
 * Warehouse communities
 * The definition of a startup
-* Where I would go in the event of the zombie apocalypse
+* Where I would go in the event of a zombie apocalypse
 * Whether or not we're living in a simulation
 * Whether Trello is an effective productivity tool or not
 * Whether Dr Who is sci-fi or fantasy
