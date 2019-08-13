@@ -2,7 +2,7 @@
 title: Services
 subtitle: Work with me, Lily Bruns, startup storyteller & strategy consultant
 description: Work with Lily Bruns, startup storyteller & strategy consultant
-featured_image: /images/me.jpg
+featured_image: /images/marketing.jpg
 ---
 
 
