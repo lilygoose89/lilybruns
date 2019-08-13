@@ -7,11 +7,11 @@ featured_image: /images/marketing.jpg
 
 
 ## Get strategy advice and direction in your marketing
-Startup smarts can help anybody. My passion is for the scrappy, innovative, and technologically wondrous world of startups, but the playbooks I’ve developed working in the startup world can be applied to business problems small and large.
+Startup smarts can help anybody. My passion is for the scrappy, innovative, and technologically wondrous world of startups, but the playbooks I’ve developed working in the tech space can be applied to business problems small and large.
 
 If you want to get maximum impact out of your time, effort, and attention, I can help you to think like a startup and focus on doing work that drives results.
 
-<a href="mailto:lily@cnxweb.site" class="button button--small">Email Me to Schedule Your Free 30-min Consultation</a>
+<a href="/contact" class="button button--small">Email Me to Schedule Your Free 30-min Consultation</a>
 
 
 <div class="gallery" data-columns="1">
@@ -38,7 +38,7 @@ When we’re deep in the throes of creation _and_ simultaneously focused on high
 
 Take a step back and get some clarity so you can understand your brand’s value, craft your identity, and tie in all your messaging and communications in a cohesive, impactful way.
 
-[Email me to get started](mailto:lily@cnxweb.site)
+[Email me to get started](/contact)
 
 
 ### 2.	Get Ruthless (but Necessary) Feedback
@@ -51,7 +51,7 @@ What you need is critical feedback from somebody who _understands the context of
 
 **I’ll give you the tough love you’ve been missing**, and I'll deliver this feedback to you in a way that’s constructive. More importantly, I’ll work with you to craft the step-by-step plan for rolling out improvements in the context of your resource constraints.
 
-[Email me to get started](mailto:lily@cnxweb.site)
+[Email me to get started](/contact)
 
 
 ### 3.	Create Content That Builds Trust
@@ -64,10 +64,10 @@ The point of content marketing is to build trust and cultivate a relationship wi
 
 I’ll help you to frame the big picture of your content strategy and hone in on how to utilize each channel to achieve specific business objectives. Whether it’s your blog, Instagram, videos or even your self-help knowledge base, getting a clearly outlined content strategy will ensure you’re **investing in marketing that actually serves your business.**
 
-[Email me to get started](mailto:lily@cnxweb.site)
+[Email me to get started](/contact)
 
 ---
 
 Whether you want guidance launching a new project, have to hire an interim CMO, or need to remove a critical bottle-neck stat to scale your startup, I offer consulting services to fit a variety of business needs. Let's find your new direction together.
 
-<a href="mailto:lily@cnxweb.site" class="button button--large">Email Me to Schedule Your Free 30-min Consultation</a>
+<a href="/contact" class="button button--large">Email Me to Schedule Your Free 30-min Consultation</a>
