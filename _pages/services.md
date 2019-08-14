@@ -7,7 +7,11 @@ featured_image: /images/marketing.jpg
 
 
 ## Get strategy advice and direction in your marketing
-Startup smarts can help anybody. My passion is for the scrappy, innovative, and technologically wondrous world of startups, but the playbooks I’ve developed working in the tech space can be applied to business problems small and large.
+Startup smarts can help anybody. My passion is for the scrappy, innovative, and technologically wondrous world of startups, but the playbooks I’ve developed working with entrepreneurs for the past five years can be applied to business problems small and large.
+
+My background is in marketing and product management, though as is typical in the startup world, I've worn plenty more hats than that!
+
+I completed my Masters in Innovation, Entrepreneurship and Management at [Imperial College Business School](https://www.imperial.ac.uk/business-school/about-us/facts-and-figures/), one of the top-ranked management schools in the world, and can pass along my business savvy to you and your team.
 
 If you want to get maximum impact out of your time, effort, and attention, I can help you to think like a startup and focus on doing work that drives results.
 
@@ -34,7 +38,7 @@ Having a hard time spelling out why your project is just the best? Feel like you
 
 My marketing specialty is helping teams take a step back to explore the value propositions they make – or as I like to call this service, **“helping startups pull their heads out of their asses so they can actually speak to customers.”**
 
-When we’re deep in the throes of creation _and_ simultaneously focused on higher level business strategy _and_ day to day details it’s hard to be objective…
+When we’re deep in the throes of creation _and_ simultaneously focused on higher-level business strategy _and_ day to day details it’s hard to be objective…
 
 Take a step back and get some clarity so you can understand your brand’s value, craft your identity, and tie in all your messaging and communications in a cohesive, impactful way.
 
@@ -47,7 +51,7 @@ Pretty sure you’ve got something promising on your hands but struggling to fig
 
 Each of us tends to have a core set of skills we bring to the table but in the resource-strapped context of startups and pilot projects, we’re often asked to wear too many hats at once. This can result in work or products that you’re maybe just not _quite_ sure are awesome all around…
 
-What you need is critical feedback from somebody who _understands the context of your business and your goals_. Somebody who will take the time to understand your end-user and strategic aims before they do a thorough tear-down of your work.
+What you need is critical feedback from somebody who understands the context of your business and your goals. Somebody who will take the time to understand your end-user and strategic aims before they do a thorough tear-down of your work.
 
 **I’ll give you the tough love you’ve been missing**, and I'll deliver this feedback to you in a way that’s constructive. More importantly, I’ll work with you to craft the step-by-step plan for rolling out improvements in the context of your resource constraints.
 
