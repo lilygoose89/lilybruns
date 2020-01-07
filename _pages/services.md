@@ -1,6 +1,6 @@
 ---
-title: Services
-subtitle: Work with me, Lily Bruns, startup storyteller & strategy consultant
+title: Business Consulting Services
+subtitle: Let's grow your business! From strategy and content to branding and UX, I've got your marketing needs covered.
 description: Work with Lily Bruns, startup storyteller & strategy consultant
 featured_image: /images/marketing.jpg
 ---
@@ -32,7 +32,17 @@ My skills and expertise span broadly from strategy to design thinking, branding 
 ---
 
 
-### 1.	Craft Better Brand Messages
+### 1.	Fix Your Damn Website Already
+
+Know you need a better website but not sure where to start?
+
+Whether you want to improve your SEO, conversion or branding, I can get you started on the right path with a full website audit. Realizing something needs to be fixed is the easy part, the hard part is knowing what you should focus on first to reach your goals and get the best ROI - that's where I come in - by giving you an action plan that plays to your strengths and accounts for the needs of your business.
+
+Add a marketing and content audit to get the full picture of how you can improve your funnels and streamline your marketing engine.
+
+[Email me to get started](/contact)
+
+### 2. Craft Better Brand Messages
 
 Having a hard time spelling out why your project is just the best? Feel like your messaging isn’t connecting the way you need it to?
 
@@ -40,20 +50,7 @@ My marketing specialty is helping teams take a step back to explore the value pr
 
 When we’re deep in the throes of creation _and_ simultaneously focused on higher-level business strategy _and_ day to day details it’s hard to be objective…
 
-Take a step back and get some clarity so you can understand your brand’s value, craft your identity, and tie in all your messaging and communications in a cohesive, impactful way.
-
-[Email me to get started](/contact)
-
-
-### 2.	Get Ruthless (but Necessary) Feedback
-
-Pretty sure you’ve got something promising on your hands but struggling to figure out the finer details of how it can be improved?
-
-Each of us tends to have a core set of skills we bring to the table but in the resource-strapped context of startups and pilot projects, we’re often asked to wear too many hats at once. This can result in work or products that you’re maybe just not _quite_ sure are awesome all around…
-
-What you need is critical feedback from somebody who understands the context of your business and your goals. Somebody who will take the time to understand your end-user and strategic aims before they do a thorough tear-down of your work.
-
-**I’ll give you the tough love you’ve been missing**, and I'll deliver this feedback to you in a way that’s constructive. More importantly, I’ll work with you to craft the step-by-step plan for rolling out improvements in the context of your resource constraints.
+Take a step back and get some clarity so you can understand your brand’s value, craft your identity, and tie in all your messaging and communications in a cohesive, impactful way. **It doesn't just make you look good, it'll make you more money**.
 
 [Email me to get started](/contact)
 
@@ -67,6 +64,18 @@ The modern internet runs on content, but so much of it is noise. Is what you’r
 The point of content marketing is to build trust and cultivate a relationship with your customer. The deal’s simple, you demonstrate your value by providing entertainment or education and in turn, you get goodwill and a slice of attention. Is that deal working out for you?
 
 I’ll help you to frame the big picture of your content strategy and hone in on how to utilize each channel to achieve specific business objectives. Whether it’s your blog, Instagram, videos or even your self-help knowledge base, getting a clearly outlined content strategy will ensure you’re **investing in marketing that actually serves your business.**
+
+[Email me to get started](/contact)
+
+### 4.	Get Ruthless (but Necessary) Feedback
+
+Pretty sure you’ve got something promising on your hands but struggling to figure out the finer details of how it can be improved?
+
+Each of us tends to have a core set of skills we bring to the table but in the resource-strapped context of startups and pilot projects, we’re often asked to wear too many hats at once. This can result in work or products that you’re maybe just not _quite_ sure are awesome all around…
+
+What you need is critical feedback from somebody who understands the context of your business and your goals. Somebody who will take the time to understand your end-user and strategic aims before they do a thorough tear-down of your work.
+
+**I’ll give you the tough love you’ve been missing**, and I'll deliver this feedback to you in a way that’s constructive. More importantly, I’ll work with you to craft the step-by-step plan for rolling out improvements in the context of your resource constraints.
 
 [Email me to get started](/contact)
 

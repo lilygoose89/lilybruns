@@ -6,6 +6,11 @@ description: Some friends and I realized we were each trying to bridge communiti
 featured_image: '/images/cmea.jpg'
 ---
 
-## [CMEA](https://www.facebook.com/ChiangMaiEntrepreneurs/)
+## Visit [CMEA](https://www.facebook.com/ChiangMaiEntrepreneurs/)
 
-![](/images/demo/demo-landscape.jpg)
+Join our monthly meetup: [RSVP on Facebook](https://www.facebook.com/events/351594402154543/).
+
+Current initiatives:
+* [Thailand Digital Nomad Visa]()
+* Chiang Mai University 21st Century-Skills Bootcamp
+* Mentorship Program

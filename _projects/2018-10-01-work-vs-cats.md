@@ -6,4 +6,4 @@ description: I have four cats and I work from home. This isn't always great for 
 featured_image: '/images/workvscats2.jpg'
 ---
 
-## [📸](https://www.instagram.com/workvscats/)
+## Visit [@workvscats 📸](https://www.instagram.com/workvscats/)

@@ -5,7 +5,7 @@ description: About Lily Bruns
 featured_image: /images/globe.jpg
 ---
 
-## Startup Storyteller
+## Startup Storyteller & Community Connector
 
 I help startups share their message with the world and I support talent by bringing together communities.
 
@@ -48,6 +48,7 @@ Here is a short list of things that I will happily talk about at length:
 * Netflix romcoms
 * My cats
 * Warehouse communities
+* Why coliving is THE BEST for nomads
 * The definition of a startup
 * Where I would go in the event of a zombie apocalypse
 * Whether or not we're living in a simulation
